@@ -1,9 +1,6 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-00589C?style=for-the-badge&logo=fastapi&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,js,html,css,vscode,git,github,mysql,pytorch,postgres" />
+</p>
 <!--
 **techieahad/techieahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
