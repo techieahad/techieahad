@@ -1,8 +1,7 @@
 # Hi there, I'm Ahad Ali 
 
 🎓 **Computer Science Engineering Student** | Aspiring **Full-Stack AI Engineer**
-
-I build end-to-end intelligent web applications, integrate LLMs and vector search backends, and practice core Data Structures & Algorithms.
+    **Exploring, Learning & Developing**
 
 ---
 
