@@ -33,16 +33,16 @@ I build end-to-end intelligent web applications, integrate LLMs and vector searc
 
 ### 📫 Connect With Me
 <p align="left">
+  <a href="https://www.linkedin.com/in/techieali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-techieali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:techieahad@gmail.com">
     <img src="https://img.shields.io/badge/Email-techieahad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/tachieahad">
     <img src="https://img.shields.io/badge/GitHub-tachieahad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/techieahad/">
+  <a href="https://leetcode.com/u/techieahad/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-techieahad-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-   <a href="www.linkedin.com/in/techieali">
-    <img src="https://img.shields.io/badge/LinkedIn-techieahad-FFA116?style=for-the-badge&logo=LinkedIn&logoColor=Blue" alt="LinkedIn" />
   </a>
 </p>
