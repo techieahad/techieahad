@@ -1,7 +1,7 @@
 # Hi there, I'm Ahad Ali 
 
 🎓 **Computer Science Engineering Student** | Aspiring **Full-Stack AI Engineer**
-    **Exploring, Learning & Developing**
+Exploring, Learning & Developing
 
 ---
 
