@@ -42,4 +42,7 @@ I build end-to-end intelligent web applications, integrate LLMs and vector searc
   <a href="https://leetcode.com/u/techieahad/">
     <img src="https://img.shields.io/badge/LeetCode-techieahad-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+   <a href="www.linkedin.com/in/techieali">
+    <img src="https://img.shields.io/badge/LinkedIn-techieahad-FFA116?style=for-the-badge&logo=LinkedIn&logoColor=Blue" alt="LinkedIn" />
+  </a>
 </p>
